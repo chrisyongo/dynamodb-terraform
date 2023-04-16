@@ -1,0 +1,104 @@
+{
+    "GuestList": [
+    {
+        "PutRequest":{
+            "Item": {
+                "EmailId": {"S":"uwimana.alphonsine@azubiafrica.org"},
+                "GuestName": {"S": "Uwimana Alphonsine"},
+                "Country": {"S": "Rwanda"},
+                "Gender": {"S": "Female"}
+            }
+        }
+    },
+    {
+        "PutRequest":{
+            "Item": {
+                "EmailId": {"S":"nana.esi@azubiafrica.org"},
+                "GuestName": {"S":"Nana Esi Ashun-Cobbina"},
+                "Country": {"S":"Ghana"},
+                "Gender": {"S":"Female"}
+            }
+        }
+    },
+    {
+        "PutRequest":{
+            "Item": {
+                "EmailId": {"S": "ifeanyi.okeibunor@azubiafrica.org"},
+                "GuestName": {"S": "Ifeanyi  Okeibunor"},
+                "Country": {"S": "Nigeria"},
+                "Gender": {"S": "Male"}
+            }
+        }
+    },
+    {
+        "PutRequest":{
+            "Item": {
+                "EmailId": {"S":"eva.naomi@azubiafrica.org"},
+                "GuestName": {"S":"Eva Naomi"},
+                "Country": {"S":"Kenya"},
+                "Gender": {"S":"Female"}
+            }
+        }
+    },
+    {
+        "PutRequest":{
+            "Item": {
+                "EmailId": {"S": "emmanuel.bassey@azubiafrica.org"},
+                "GuestName": {"S": "Emmanuel Bassey"},
+                "Country": {"S": "Ghana"},
+                "Gender": {"S": "Male"}
+            }
+        }
+    },
+    {
+        "PutRequest":{
+            "Item": {
+                "EmailId": {"S": "ebenezer.kuku@azubiafrica.org"},
+                "GuestName": {"S": "Ebenezer Kuku"},
+                "Country": {"S": "Ghana"},
+                "Gender": {"S": "Male"}
+            }
+        }
+    },
+    {
+        "PutRequest":{
+            "Item": {
+                "EmailId": {"S": "christopher.yongo@azubiafrica.org"},
+                "GuestName": {"S": "Christopher Yongo"},
+                "Country": {"S": "Kenya"},
+                "Gender": {"S": "Male"}
+            }
+        }
+    },
+    {
+        "PutRequest":{
+            "Item": {
+                "EmailId": {"S": "brian.gitau@azubiafrica.org"},
+                "GuestName": {"S": "Brian Gitau"},
+                "Country": {"S": "Kenya"},
+                "Gender": {"S": "Male"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "EmailId": {"S": "amos.nyaburi@azubiafrica.org"},
+                "GuestName": {"S": "Amos Nyaburi"},
+                "Country": {"S": "Kenya"},
+                "Gender": {"S": "Male"}
+            }
+        }
+    },
+    {
+        "PutRequest":{
+            "Item": {
+                "EmailId": {"S": "abdullahi.baffa@azubiafrica.org"},
+                "GuestName": {"S": "Abdullahi baffa"},
+                "Country": {"S": "Ghana"},
+                "Gender": {"S": "Male"}
+            }
+        }
+    }
+]
+}
